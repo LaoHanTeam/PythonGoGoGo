@@ -13,14 +13,18 @@ GitHub 支持使用Markdown来编辑issue 和gist以及README啦 哈哈
 **我比较粗啊** , *我比较歪* , [点我到google](http://www.baidu.com) 其实是百度的啦
 
 GitHub 也可以使用一些特殊的组合表示列表如下咯
+
+
 1. 代表先进的生产力
 2. 代表最广大人民的利益
 3. 代表先进文化前进方向
+
 
 差点忘光了，蛤蛤蛤蛤
 
 
 也可以变成加点的列表，只需要把`*`放在每行之前就好了
+
 * Too young ,too simple
 * sometime native 
 
