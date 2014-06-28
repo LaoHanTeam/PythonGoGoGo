@@ -1,0 +1,9 @@
+('F:\\code\\pythonStd\\build\\shell\\shell.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1403965085L)
